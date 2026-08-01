@@ -1,0 +1,19 @@
+{
+  "target_count": 50,
+  "max_concurrency": 5,
+  "run_duration_minutes": 60,
+  "identities_dir": "C:\\Users\\L\\Desktop\\4399AccountRegister-main\\ZHUCEJI\\identities",
+  "ocr_model": "C:\\Users\\L\\Desktop\\4399AccountRegister-main\\ZHUCEJI\\4399ocr\\4399ocr.onnx",
+  "sfz_file": "C:\\Users\\L\\Desktop\\4399AccountRegister-main\\ZHUCEJI\\sfz.txt",
+  "account_prefix": "User",
+  "password_prefix": "Pass",
+  "request_timeout": 12,
+  "github": {
+    "username_prefix": "kazeiro-nova",
+    "email_prefix": "kazeiro.nova",
+    "password": "Gt#8xKp!2vLmQw9z",
+    "temporam_api_key": "tm_UfIwItCE8z8l7b28n9J03-BuWegJacZq",
+    "output_file": "./github_accounts.json",
+    "chrome_debug_port": 9222
+  }
+}
