@@ -1,0 +1,8 @@
+{
+  "username": "kazeiro-nova-4",
+  "token": "YOUR_TOKEN_HERE",
+  "owner": "kazeiro-nova-4",
+  "repo": "4399AccountRegister",
+  "workflow_id": "register.yml",
+  "enabled": true
+}
