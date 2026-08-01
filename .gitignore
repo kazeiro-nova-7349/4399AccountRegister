@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.exe
+*.spec
+.DS_Store
+web_config.local.json
+accounts.txt
+*.dll
+*.so
+*.so.*
+onnxruntime*.tgz
+web-control
+run.log
